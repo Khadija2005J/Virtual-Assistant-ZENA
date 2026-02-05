@@ -1,1 +1,9 @@
+requests
+Pillow
+beautifulsoup4
+speechrecognition
+pyttsx3
+lxml
+requests-html
+pyaudio
  
